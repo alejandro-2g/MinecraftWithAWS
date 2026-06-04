@@ -150,3 +150,61 @@ yes
 
 Terraform will remove all resources created for the project.
 
+
+# Resources and References
+
+The following resources were used during research, development, troubleshooting, and implementation of this project:
+
+## AWS Documentation
+
+Amazon Web Services. "Setting Up a Minecraft Java Server on Amazon EC2."
+
+https://aws.amazon.com/blogs/gametech/setting-up-a-minecraft-java-server-on-amazon-ec2/
+
+This guide was used as a reference for AWS infrastructure setup, Minecraft server deployment concepts, and EC2 configuration.
+
+## Community Tutorials
+
+AWS Heroes. "Minecraft Server on AWS."
+
+https://dev.to/aws-heroes/minecraft-server-on-aws-5g61
+
+This article provided additional insight into deploying Minecraft servers on AWS and general infrastructure considerations.
+
+Minecraft Forum. "Amazon EC2 Server Setup Guide."
+
+https://www.minecraftforum.net/forums/support/server-support-and/1900051-amazon-ec2-server-setup-guide
+
+This guide was referenced for Minecraft server configuration and EC2 deployment best practices.
+
+## Official Documentation
+
+Terraform Documentation
+
+https://developer.hashicorp.com/terraform/docs
+
+Used for Terraform syntax, AWS provider configuration, variables, outputs, and infrastructure provisioning.
+
+Ansible Documentation
+
+https://docs.ansible.com/
+
+Used for playbook development, inventory configuration, modules, and automation tasks.
+
+AWS EC2 Documentation
+
+https://docs.aws.amazon.com/ec2/
+
+Used for EC2 instance management, networking, security groups, and SSH access.
+
+AWS CLI Documentation
+
+https://docs.aws.amazon.com/cli/
+
+Used for AWS credential configuration and command-line interaction with AWS resources.
+
+Minecraft Server Documentation
+
+https://www.minecraft.net/en-us/download/server
+
+Used for Minecraft Java Edition server software and deployment requirements.
