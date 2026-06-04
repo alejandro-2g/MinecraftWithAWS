@@ -150,9 +150,3 @@ yes
 
 Terraform will remove all resources created for the project.
 
-## Author
-
-Alejandro Cervantes Flores
-
-Oregon State University  
-Computer Science
